@@ -1,0 +1,16 @@
+1. Click "Message" button of a freelancer row
+2. The 1-clicked-message-btn modal will show up and then ...
+3. Click "Send Message", 2-sent-first-message modal will show up.
+	- the upper part within the msg box above "View details" link is the proposal summary
+	- underneath that is the messaging history
+4. Whenever you click on "Message" button of a freelancer whom you already messaged, this "Messages" popup will show up.
+	e.g. 3-msg-box__bottom, 3-msg-box__top
+5. "Hire Freelancer" floating btn always linger around, doesn't disappear until you hire the freelancer.
+
+---------- 4-view-conversation-info --------
+- Click the menu-like icon btn to show the conversation info within the modal
+- (Details on the conversation info coming in my next upload)
+
+---------- 5-msgs-page ----------------------
+The right part is the same conversation info part as the messages modal, except that it has "activity timeline".
+(Details on "activity timeline" coming in my next upload, possibly after going through hiring a freelancer)

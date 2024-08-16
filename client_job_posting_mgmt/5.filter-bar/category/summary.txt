@@ -1,0 +1,15 @@
+Category filter has 2 hierarchies: main category and sub category.
+This selector is single choice, not multiple choices select.
+
+In screenshot 1
+	- there are default options to select (Customer Service; Design & Creative; Web, Mobile & Software Dev), these are predefined main categories.
+	- when you don't see the targeting category, use the dropdown.
+	- suppose you selected "IT & Networking > ERP/CRM Software"
+In screenshot 2
+	- "ERP/CRM Software" option is added to the default options list, and selected
+In screenshot 3
+	- you see there are 2 lozenges (clearable buttons) showing.
+	- if you X the "Category: IT & Networking", it will automatically clear its sub-category selection "Subcategory: ..."
+	- if you X the "Subcategory: ERP/CRM Software", the main category selection will not be affected, and you will see the broader result.
+
+Note that you could either select a main category (meaning all sub categories are implicitly included) or a sub category as the category filter

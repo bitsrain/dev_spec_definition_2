@@ -1,0 +1,3 @@
+Archived tab has 2 types of freelancers.
+- type A: freelancers who withdraw their proposal by themselves (bottom part)
+- type B: freelancers who were "archived" by the client (top part). refer to 1-archive__btn

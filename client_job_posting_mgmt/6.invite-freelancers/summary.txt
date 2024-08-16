@@ -1,0 +1,7 @@
+"Invite to job" modal's message box is prepopulated by Upwork. But it could be edited.
+
+---------- 4-invited-freelancer-msg-history ------
+Invited freelancer's msg history is different from the normal bidders.
+Note that the client's invitation message comes first.
+
+Invited freelancer appears in msgs page only if he/she accepted the invite (submitted the proposal). If denied, doesn't show up in the msgs page.

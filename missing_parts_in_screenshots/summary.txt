@@ -1,0 +1,16 @@
+1. freelancer settings/get-paid: 1-overview.jpg withdrawal methods block bottom part
+	Original image had everything. Cropping might have confused you.
+2. freelancer settings/get-paid: 2-add-withdrawal-method.jpg bottom part
+3. 3-get-paid-now.jpg options
+4. 4-withdrawal-schedule.jpg options, bottom part
+	Added another screenshot when checked "Reserve balance"
+5. 5-view-transaction-history.jpg bottom part
+	Added options list. There's no special bottom part (no pagination), just plain rows extending down to the bottom.
+6. membership & connects: 1-overview.jpg (+Add Promo Code)
+	<+ Add promo code> button no longer supported. They are gone.
+7. membership & connects: 3-buy-connects.jpg options
+8. membership & connects: 3-buy-connects-checkout.jpg (Add a new billing method btn)
+9. membership & connects: 4-view-connects-history.jpg date options
+10. notification settings: 1.jpg tax settings tab?
+	Added screenshot of the modal that pops up when the checkbox is ticked. Couldn't proceed further 'cause of account safety.
+11. notification settings: 0.jpg options, bottom part

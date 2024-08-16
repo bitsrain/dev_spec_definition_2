@@ -1,0 +1,4 @@
+1. CLIENT: message box - view conversation info details
+1.1. CLIENT: messages - activity timeline details
+2. CLIENT: flow of hiring a freelancer
+3. FREELANCER: creation of specialized profile flow

@@ -1,0 +1,4 @@
+- Accepting the invitation simply means submitting the proposal for the job, nothing different from submitting a normal proposal, even the connects are reduced.
+
+Note:
+"Refer"ring a freelancer (when denying the invite) is seldom used, I can't test it 'cause it's a "shortcut" for making the "invisible link" between 2 accounts and getting em killed at once by Upwork. Can't proceed 'cause of accounts' security.

@@ -1,0 +1,2 @@
+- click thumbs-up btn to shortlist
+- click greenlighted thumbs-up btn again to un-shortlist

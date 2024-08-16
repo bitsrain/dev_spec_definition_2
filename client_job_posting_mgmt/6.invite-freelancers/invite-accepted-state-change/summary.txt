@@ -1,0 +1,3 @@
+when invited freelancer accepts it (in other words, submits proposal), the freelancer is removed from "Invited Freelancers" (2-accepted__moved_from) and added to "Messaged" (2-accepted__moved_to)
+
+when invited freelancer denies the invitation, the freelancer is just removed from "Invited Freelancers" and cannot be found anywhere else. Client just gets an email notification about it.
